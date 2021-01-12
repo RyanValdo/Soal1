@@ -162,7 +162,5 @@ int main()
 
   printList2();
 
-  printf("The Difference between Max and Min value is ");
-
   return 0;
 }
